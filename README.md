@@ -20,6 +20,10 @@ l'œil est un organe très imparfait. par exemple, notre champ visuel comporte u
 
   ![image](https://github.com/Svt-lim/5eme-semaine3/blob/master/blindspot1.png)
 
+#####  *Explication*
 
+![image](https://github.com/Svt-lim/5eme-semaine3/blob/master/389424.jpg)
 
- 
+![image](https://github.com/Svt-lim/5eme-semaine3/blob/master/CT%20r%C3%A9tine.jpg)
+
+*comme vous pouvez le voir, il y a un endroit dans l'œil où il n'y a pas de **récepteurs de la vision**. Il n'y a donc pas d'image formée à cet endroit, cela correspond au départ du nerf optique vers le cerveau.*
