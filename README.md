@@ -4,7 +4,7 @@
 
 ## II Un organe des  sens: l'œil .
 
-l'œil est un organe très imparfait. par exemple, notre champ visuel comporte un point aveugle mais nous en ignorons l'existence car le cerveau reconstruit en permanence une image cohérente du monde qui nous entoure.  
+l'œil est un organe au fonctionnement plus complexe qu'il n'y parait. par exemple, notre champ visuel comporte un point aveugle mais nous en ignorons l'existence car le cerveau reconstruit en permanence une image cohérente du monde qui nous entoure.  
 
 *Activité  : la tache de Mariotte (1668)* 
 
